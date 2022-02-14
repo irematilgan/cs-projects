@@ -12,6 +12,6 @@ These are the projects I've made during my computer engineering study. Some of t
   <li>Object Oriented Programming</li>
   <li>Statistical Decision Making</li>
   <li>Artificial Intelligence and Expert Systems</li>
-  <li><a href = 'https://github.com/irematilgan/cs-projects/tree/main/System%20Design%20and%20Analysis/booking-project'>System Design and Analysis</a></li>
+  <li><a href = 'https://github.com/irematilgan/cs-projects/tree/main/System%20Design%20and%20Analysis'>System Design and Analysis</a></li>
 
 </ul>
