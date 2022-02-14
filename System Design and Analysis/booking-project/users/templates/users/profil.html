@@ -1,0 +1,63 @@
+{%extends 'rezervasyon/base.html'%}
+{% load crispy_forms_tags %}
+{%block content%}
+<div class = 'content-section'>
+    <article class="media content-section">
+        <div class="media-body">
+            <div class="article-metadata">
+                <div style = "text-align:center;"><h1><legend class = "border-bottom mb-4">{{isim}}</legend></h1></div>
+                <strong><p>Adres :</strong> {{kullanici.adres}}</p>
+                <br>
+                <strong><p>Ülke :</strong> {{kullanici.ulke}}</p>
+                <br>
+                <strong><p>Şehir :</strong> {{kullanici.sehir}}</p>
+                <br>
+                <strong><p>Firma :</strong> {{kullanici.firma}}</p>
+                <br>
+                
+                <div style = "text-align:center;"><h4>Taşıtlarınız</h4></div>
+                <div class = "content-section">
+                    <table class = "table">
+                        <thead>
+                            <tr>
+                                <th scope = "col">İSİM</th>
+                                <th scope = "col">BOYUT</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            {%for gemi in gemis%}
+                            <tr>
+                                <th scope = "row">{{gemi.isim}}</th>
+                                <td>{{gemi.boyut}}</td>
+                                
+                            </tr>
+                             {%endfor%}
+                        </tbody>
+                    </table>
+                </div>
+                <div style = "text-align:center;"><h4>Rezervasyonlarınız</h4></div>
+                <div class = "content-section">
+                    <table class = "table">
+                    <thead>
+                        <tr>
+                            <th scope = "col">Tarih</th>
+                            <th scope = "col">İsim</th>
+                            <th scope = "col">Fiyat</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {%for rezervasyon in rezervasyons%}
+                        <tr>
+                            <th scope="row">{{rezervasyon.tarih_giris}} - {{rezervasyon.tarih_cikis}}</th>
+                            <td>{{rezervasyon.gemi.isim}}</td>
+                            <td>{{rezervasyon.fiyat}} ₺</td>
+                        </tr>
+                        {%endfor%}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </article>
+</div>
+{%endblock content%}

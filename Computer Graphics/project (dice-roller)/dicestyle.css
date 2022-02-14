@@ -1,0 +1,24 @@
+.button {
+    background-color: white; /* #ffff66; */
+    border: 2px solid #000000;
+    color: black;
+    text-shadow: 1px 1px #000000;
+    padding: 13px 13px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin: 2px;
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  
+.button:hover {
+    background-color: rgb(51, 20, 100);
+    color: white;
+}
+
+

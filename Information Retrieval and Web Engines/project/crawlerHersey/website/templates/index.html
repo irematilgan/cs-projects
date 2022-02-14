@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+     <style>
+.button {
+  background-color: #0099ff;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button2 {
+  background-color: #EE73FF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+</style>
+     <style>
+/* The container */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>My Page</title>
+ </head>
+ <style>
+   body {
+  background-image: url("/back.png");
+  background-repeat: repeat-n;
+  padding: 25px 50px 50px 60px;
+}
+<!--#grad1 {-->
+<!--  height: 200px;-->
+<!--  background-color: red;-->
+<!--  background: linear-gradient(to right, #ff99ff -300%, #ccffff 300%);-->
+<!--}-->
+ </style>
+
+ <body id ="grad1">
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <form style="float:left;" method="POST" action="/response">
+   <label style="font-family:Arial, sans-serif;font-size: 24px;" for="jobs">İş Başlığı:</label>
+
+  <select name="jobs" id="jobs" class="dropbtn">
+    <option value="yazılım mühendisi">Yazılım Mühendisi</option>
+    <option value="iş analisti">İş Analisti</option>
+    <option value="pazarlama">Pazarlama</option>
+    <option value="satış">Satış </option>
+    <option value="şoför">Şoför </option>
+  </select>
+<br>
+      <br>
+<label  class="container">Kariyer.net
+  <input name="kariyernet" id="kariyernet" type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+<label  class="container">İşBul.net
+  <input name="isbul" id="isbul" type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+<label  class="container">Eleman.net
+  <input name="elemannet" id="elemannet" type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+
+  <br>
+  <input type="submit" class="button" value="Arama Yap">
+  </form >
+
+ <form style="float:right;" method="POST" action="/mine">
+<br><br><br><br>
+     <label  class="container">Kariyer.net
+  <input name="kariyernet2" id="kariyernet2" type="checkbox" >
+  <span class="checkmark"></span>
+</label>
+<label  class="container">İşBul.net
+  <input name="isbul2" id="isbul2" type="checkbox" >
+  <span class="checkmark"></span>
+</label>
+<label  class="container">Eleman.net
+  <input name="elemannet2" id="elemannet2" type="checkbox" >
+  <span class="checkmark"></span>
+</label>
+     <input type="submit" class="button2" value="Mining Yap">
+ </form>
+
+<div >
+
+</div>
+ <table>
+    <tr>
+        <td><div id="chart_div" style="width: 500px; height: 300px;">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+             <h2>{{criterastitle}}</h2>
+  <ul class="w3-ul w3-border">
+    {{criterlist|safe}}
+  </ul>
+
+        </div></td>
+        <td><div id="chart2_div" style="width: 600px; height: 300px;">
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+                 <canvas id="myChart" style="width:100%;max-width:600px;"></canvas>
+                 <script>
+var xValues = {{sektorlist|safe}};
+var yValues = {{sektorvalues|safe}};
+var barColors = [
+  "#b91d47",
+  "#00aba9",
+  "#2b5797",
+  "#e8c3b9",
+  "#1e7145",
+  "#342EFD",
+  "#F6DDCC",
+  "#EB984E",
+  "#2E4053",
+  "#717D7E",
+];
+
+new Chart("myChart", {
+  type: "pie",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    title: {
+      display: true,
+      text: "Sektörler"
+    }
+  }
+});
+</script>
+        </div></td>
+        <td><div id="chart3_div" style="width: 500px; height: 300px;">
+                           <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+             <h2>{{positiontitle}}</h2>
+  <ul class="w3-ul w3-border">
+    {{positionlist|safe}}
+  </ul>
+
+        </div></td>
+    </tr>
+ </table>
+
+
+
+
+  <h1 style="font-family:Arial, sans-serif;white-space: pre-line">{{selectedjob}}</h1>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style>
+p {
+  border: 2px solid black;
+  outline: #4CAF50 solid 10px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+<div style="background-color:pink;font-family:Arial, sans-serif;white-space: pre-line">{{kariyerList|safe}}</div>
+<div style="background-color:#BCB2FF;font-family:Arial, sans-serif;white-space: pre-line">{{elemanList|safe}}</div>
+<div style="background-color:cyan;font-family:Arial, sans-serif;white-space: pre-line">{{isbulList|safe}}</div>
+
+
+ </body>
+</html>

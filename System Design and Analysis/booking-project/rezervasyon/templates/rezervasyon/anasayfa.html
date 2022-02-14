@@ -1,0 +1,35 @@
+
+
+{%extends 'rezervasyon/base.html'%}
+{%block content%}
+<article class="media content-section">
+    <div class="media-body">
+      <div class="article-metadata">
+        <table class = "table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Kullanıcı İsmi</th>
+              <th scope="col">Taşıtlar</th>
+            </tr>
+            
+          </thead>
+          <tbody>
+            {% for user in Users%}
+            <tr>
+              <th scope = "row">{{user.id}}</th>
+              <td>{{user.username}}</td>
+              <td>{%for Gemi in Gemis%}
+                  {%if Gemi.kullanici.user.username == user.username %}
+                  {{Gemi.isim}} |
+                  {% endif %}
+                  {%endfor%}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        </div>
+    </div>
+</article>
+{%endblock content%}

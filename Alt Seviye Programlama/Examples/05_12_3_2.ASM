@@ -1,0 +1,31 @@
+        PAGE 60,80
+        TITLE DIZI_MIN_F
+
+
+PUBLIC DIZI_MIN_F
+EXTRN DIZI:WORD, ELEMAN:WORD
+
+
+CODESG  SEGMENT PARA PUBLIC 'CODE'
+        ASSUME CS:CODESG  
+
+DIZI_MIN_F PROC NEAR
+
+	PUSH CX
+	PUSH SI
+        LEA SI, DIZI
+        MOV CX, ELEMAN
+        MOV AX, [SI]
+        DEC CX
+TEKRAR: ADD SI,2
+        CMP AX, [SI]
+        JB L1
+        MOV AX, [SI]
+L1:     LOOP TEKRAR
+	POP SI
+	POP CX
+        RET
+DIZI_MIN_F ENDP
+
+CODESG  ENDS
+        END

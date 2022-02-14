@@ -1,0 +1,421 @@
+[
+    {
+        "title": "Gömülü Yazılım ve Donanım Tasarım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "En az 4 yıl tecrübeli adaylar",
+            "Yapıldı",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun)",
+            "Elektrik/Elektronik Mühendisliği,Elektronik Mühendisliği",
+            "İngilizce( Okuma : İyi, Yazma : İyi, Konuşma : İyi)"
+        ],
+        "position-info": [
+            "Yazılım, Elektronik Kart Sistemleri, Elektrik & Elektronik , Elektrikli ve Elektronik Aletler",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "Ankara(Yenimahalle)"
+        ],
+        "sector": "Yazılım, Elektronik Kart Sistemleri, Elektrik & Elektronik , Elektrikli ve Elektronik Aletler"
+    },
+    {
+        "title": "Yapay Zeka Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "5 - 15 yıl tecrübeli adaylar",
+            "Doktora(Mezun)"
+        ],
+        "position-info": [
+            "Danışmanlık, İnsan Kaynakları Danışmanlığı",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "İstanbul(Avr.)(Beylikdüzü)"
+        ],
+        "sector": "Danışmanlık, İnsan Kaynakları Danışmanlığı"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "En az 2 yıl tecrübeli adaylar",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun)",
+            "Bilgisayar Mühendisliği,Yazılım Mühendisliği"
+        ],
+        "position-info": [
+            "Bilgi İşlem",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "Düzce"
+        ],
+        "sector": ""
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "1 - 3 yıl tecrübeli adaylar",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)"
+        ],
+        "position-info": [
+            "Bilişim, Yazılım",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "İstanbul(Asya)(Ümraniye)"
+        ],
+        "sector": "Bilişim, Yazılım"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Firmamız İstanbul Merkez ofisimizde görevlendirilme üzere, Otomasyon Projelerinde ve Arge Projelerimiz üzerine çalıştırılmak üzere İstanbul Anadolu yakasında ikamet eden,",
+            "Üniversitelerin 4 yıllık lisans eğitimi veren Bilgisayar Mühendisliği, Yazılım Mühendisi yada Matematik Mühendisliği bölümlerinden mezun ya da yakın zamanda mezun olabilecek,İngilizceyi işinde rahat kullanabilen",
+            "Ekip çalışmasına yatkın ve müşteri ile iyi iletişim kurabilen,",
+            "Analitik düşünme ve hızlı problem çözme becerisi olan",
+            "Temiz / düzenli kod yazımına ve kodun performanslı çalışmasına önem veren,",
+            "Nesne tabanlı uygulama geliştirme konusunda tecrübesi olan,",
+            "C# dilinde uygulama geliştirebilen, Asp.NET MVC, .NetCore konularında bilgi sahibiWebApi ve RestFul konusunda tecrübesi olan,",
+            "Microsoft SQL veri tabanına hakim,",
+            "MODBUS (TCP,RTU), TCP/IP, Ethernet veya  IP tabanlı haberleşme protokolleri ve birimlerinden herhangi birini uygulama geliştirmiş veya geliştirmeye açık,",
+            "Windows Forms APP geliştirme konusunda deneyimli tercihen WPF, WCF ile uygulama geliştirmiş veya geliştirmeye açık,",
+            "Tercihen Python ve Machine Learning alanında ön bilgisi olan",
+            "Endüstri 4.0 ve dijitalleşme kavramlarına ilgi duyan",
+            "Bilgi teknolojileri alanında gelişmeleri yakından takip eden, gelişime açık,",
+            "Seyahat sorunu bulunmayan, aktif olarak araç kullanabilen",
+            "Takım çalışmasına yatkın,",
+            "Erkek adaylar için askerlik hizmetini tamamlamış a"
+        ],
+        "candidate-criterias": [
+            "Tecrübeli ya da tecrübesiz adaylar",
+            "Üniversite(Mezun)"
+        ],
+        "position-info": [
+            "Elektrik & Elektronik",
+            "Mühendislik",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "İstanbul(Asya)(Ümraniye)"
+        ],
+        "sector": "Elektrik & Elektronik"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Üniversitelerin ilgili mühendislik bölümlerinden mezun,",
+            "Mobil uygulama geliştirme konusunda en az 3 yıl deneyimi olan,",
+            "İyi derecede Android SDK, Android Studio, Java/Kotlin bilgisine sahip,",
+            "OOP,JSON,Web servisleri/REST API'ler hakkında bilgi sahibi,",
+            "HTML5,CSS,Bootstrap,Javascript, JQuery, Vue.js, Ajax konularında bilgi sahibi,",
+            "Tercihen React ve Angular konusunda deneyimli,",
+            "Yeniliklere açık, mobil teknolojilerdeki yenilikleri takip eden,",
+            "App Store ve Play Store’a uygulama yayınlama konusunda tecrübeli,",
+            "Ekip çalışmasına yatkın,",
+            "Erkek adaylar için askerlik hizmetini tamamlamış.",
+            "Analitik düşünebilen, sorumluluklarına özen gösteren,",
+            "Gerektiğinde yoğun çalışma temposuna ayak uydurabilecek,"
+        ],
+        "candidate-criterias": [
+            "En az 3 yıl tecrübeli adaylar",
+            "Yapıldı",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun)",
+            "Bilgisayar Mühendisliği,Yazılım Mühendisliği"
+        ],
+        "position-info": [
+            "Elektrik & Elektronik",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "1",
+            "Ankara(Çankaya), İstanbul(Asya)(Kartal)"
+        ],
+        "sector": "Elektrik & Elektronik"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "WebAPI/Rest gibi web servislerle çalışmış,",
+            "Oracle ve MSSQL ilişkisel veri tabanları üzerinde çalışmış,",
+            "Tercihen çağrı merkezi yazılımları ve Genesys ürün ailesi konusunda deneyim sahibi,",
+            "İş analizlerini ve teknik analizleri yapabilecek, proje yönetimi becerisine sahip,",
+            "İyi derecede ingilizce bilen,",
+            "Teknolojik gelişmeleri takip edebilen, detaylara önem veren ve motivasyonu yüksek,",
+            "Sorumluk sahibi ve gerektiğinde teknik inisiyatif alabilen,",
+            "İletişim becerisi yüksek, takım çalışmasına yatkın.",
+            "Çağrı Merkezi operasyonlarını ve iş süreçlerini analiz ederek, gerekli gelişme alanlarını belirlemek, operasyonel maliyeleri düşürmek ve verimlilik artışı sağlamak üzere teknolojik gelişmeleri takip ederek çözümler üretmek ve projeler geliştirmek.",
+            "Müşteri ihtiyaçları doğrultusunda çağrı merkezi yazılımlarının (CTI, IVR, Multimedia, CRM, Yönetim, Planlama, ve İzleme) analizi, planlanması, geliştirilmesi, test edilmesi ve canlıya alınması süreçlerini yürütmek.",
+            "Birim yöneticisi ile birlikte çalışarak çağrı merkezi iş birimi kullanıcılarının taleplerini almak ve fizibilite çalışmalarını yaparak gerek proje dahilinde gerekse yeni iş veya değişiklik talepleri şeklinde önceliklendirerek hayata geçirmek.",
+            "Çağrı merkezi uygulamalarının 7x24 ayakta olmasını sağlayacak şekilde bakım, güncelleme ve sürüm yükseltme ihtiyaçlarını gidermek.",
+            "Çağrı Merkezi uygulamalarının diğer IT sistemleri ile olan entegrasyon çalışmalarında bulunmak, ARGE faaliyetleri yürütmek."
+        ],
+        "candidate-criterias": [
+            "En az 5 yıl tecrübeli adaylar",
+            "Yapıldı, Muaf",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)",
+            "İngilizce( Okuma : İleri, Yazma : İleri, Konuşma : İleri)"
+        ],
+        "position-info": [
+            "Medya",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "İstanbul(Avr.)(Beşiktaş)"
+        ],
+        "sector": "Medya"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "1 - 10 yıl tecrübeli adaylar",
+            "Yapıldı, Muaf, Tecilli",
+            "Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)",
+            "Bilgisayar Mühendisliği,Elektronik Mühendisliği,Mekatronik Mühendisliği,Yazılım Mühendisliği",
+            "İngilizce( Okuma : Orta, Yazma : Orta, Konuşma : Orta)"
+        ],
+        "position-info": [
+            "Üretim / Endüstriyel Ürünler",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "Kocaeli(İzmit, Derince, Körfez, Başiskele, Kartepe)"
+        ],
+        "sector": "Üretim / Endüstriyel Ürünler"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Tüm sirket içi yazılımların gelistirilmesinde rol almak,",
+            "Mevcut ve potansiyel projelerde ihtiyaç duyulan yazılımların gelistirilmesini saglamak,",
+            "Sirket stratejilerini benimsemek ve bu yönde gerekli çalısmaların yapılmasında aktif rol oynamak,",
+            "Diger birimler ile koordineli olarak geliştirilmiş olan uygulamaların devreye alınmasını sağlamak,",
+            "Teknolojiyi en etkin şekilde kullanarak şirketin maliyetlerini azaltmak,"
+        ],
+        "candidate-criterias": [
+            "Tecrübeli ya da tecrübesiz adaylar",
+            "Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)"
+        ],
+        "position-info": [
+            "Diğer",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "Antalya, İstanbul(Avr.), İstanbul(Asya)"
+        ],
+        "sector": "Diğer"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "En az 2 yıl tecrübeli adaylar",
+            "Yapıldı, Muaf",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)"
+        ],
+        "position-info": [
+            "Elektrik & Elektronik",
+            "Mühendislik",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "Konya"
+        ],
+        "sector": "Elektrik & Elektronik"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Tercihen “Yayın - Abone Ol (Publish – Subscribe)” veri iletim paradigmasına aşina olmak,"
+        ],
+        "candidate-criterias": [
+            "Tecrübeli ya da tecrübesiz adaylar",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun)"
+        ],
+        "position-info": [
+            "Araştırma Hizmetleri",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "Kocaeli(Gebze)"
+        ],
+        "sector": "Araştırma Hizmetleri"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "En az 1 yıl tecrübeli adaylar",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)",
+            "Bilgisayar Mühendisliği,Bilgisayar Öğretmenliği,Bilgisayar Programcılığı,Bilgisayar Teknolojisi ve Bilişim Sistemleri,Yazılım Mühendisliği",
+            "İngilizce( Okuma : İyi, Yazma : İyi, Konuşma : İyi)"
+        ],
+        "position-info": [
+            "Yazılım, Danışmanlık, Sigortacılık",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Uzman Yardımcısı",
+            "4",
+            "İstanbul(Avr.)(Sarıyer)"
+        ],
+        "sector": "Yazılım, Danışmanlık, Sigortacılık"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            " ",
+            "Üniversitelerin 4 yıllık ilgili bölümlerden mezun,",
+            " ",
+            "Yazılım ile ilgili profesyonel bir çalışma ortamında minimum 3 yıl tecrübeli,",
+            " ",
+            "İyi Seviyede .Net Framework, Asp.net Web Forms, C#, WCF, Entity Framework, .Net Core bilgisine sahip,",
+            "MSSQL ve Veritabanı Tasarımı konularında deneyimli,",
+            "Orta seviyede HTML, CSS deneyimi olan,",
+            "Aktif olarak Unit Test yazan/yazma tecrübesi olan,",
+            "Ek olarak Azure Devops bilgisi/tecrübesi olan,",
+            "Agile/Scrum bilgisi/tecrübesi olan,",
+            "Soap Servis Entegrasyon tecrübesi olan,",
+            ".Net Framework'den .Net Core dönüşüm proje tecrübesine sahip olan,",
+            "Microservis mimari tecrübesine sahip,",
+            "Redis, MongoDB tecrübesine sahip,",
+            "Selenium tecrübesine sahip,"
+        ],
+        "candidate-criterias": [
+            "En az 3 yıl tecrübeli adaylar",
+            "Yapıldı, Muaf",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun)"
+        ],
+        "position-info": [
+            "Sigortacılık",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "İstanbul(Avr.)(Esenyurt)"
+        ],
+        "sector": "Sigortacılık"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "Tecrübeli ya da tecrübesiz adaylar",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci)",
+            "İngilizce( Okuma : İleri, Yazma : İleri, Konuşma : İleri)"
+        ],
+        "position-info": [
+            "Bilişim, Telekomünikasyon",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "İstanbul(Asya)(Kadıköy)"
+        ],
+        "sector": "Bilişim, Telekomünikasyon"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "2 - 5 yıl arası aktif ",
+            " ",
+            "GIS / CBS (Coğrafi Bilgi Sistemleri)",
+            "ESRI ArcGIS Server",
+            "ESRI ArcGIS JS API"
+        ],
+        "candidate-criterias": [
+            "2 - 5 yıl tecrübeli adaylar",
+            "Üniversite(Mezun)",
+            "Bilgisayar Mühendisliği,Elektrik/Elektronik Mühendisliği,Matematik Mühendisliği,Yazılım Mühendisliği",
+            "İngilizce( Okuma : İyi, Yazma : İyi, Konuşma : İyi)"
+        ],
+        "position-info": [
+            "Bilişim, Yazılım, Coğrafi Bilgi Sistemleri",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "1",
+            "Ankara"
+        ],
+        "sector": "Bilişim, Yazılım, Coğrafi Bilgi Sistemleri"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Tercihen Native Android uygulama geliştirme tecrübeli"
+        ],
+        "candidate-criterias": [
+            "En az 1 yıl tecrübeli adaylar",
+            "Üniversite(Mezun)"
+        ],
+        "position-info": [
+            "Bilişim, Yazılım",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "İzmir(Bayraklı)"
+        ],
+        "sector": "Bilişim, Yazılım"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "En az 1 yıl tecrübeli adaylar",
+            "Yapıldı",
+            "Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun)",
+            "Yazılım Mühendisliği"
+        ],
+        "position-info": [
+            "Diğer",
+            "Üretim / İmalat",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "10",
+            "İstanbul(Avr.), İstanbul(Asya)"
+        ],
+        "sector": "Diğer"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [
+            "Üniversitelerin Bilgisayar, Elektrik-Elektronik, Mekatronik Mühendisliği veya ilgili bölümlerden mezun,",
+            "Endüstriyel kontrol uygulamaları için C#, Python veya Web Tabanlı GUI (veya SCADA ekran) tasarımı yapmış (tercihen endüstriyel makine kontrol uygulamaları),",
+            "C#, Python veya Web Tabanlı yazılımlar ile gerçek zamanlı endüstriyel kontrol uygulamaları yapmış veya yapabilecek,",
+            "STEP dosyalarını OpenGL C++, OpenGL C# veya OpenGL Python ortamlarında analiz etme tecrübesi olan veya analiz edebilecek,",
+            "OpenGL C++, OpenGL C# veya OpenGL Python ortamlarında orta (veya ileri) seviye simülasyon yapma tecrübesine sahip,",
+            "Hızlı öğrenip uygulayabilen, matematiksel düşünme ve analiz yeteneğine sahip, inisiyatif alabilen, çözüm odaklı."
+        ],
+        "candidate-criterias": [
+            "1 - 2 yıl tecrübeli adaylar",
+            "Yapıldı",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci)"
+        ],
+        "position-info": [
+            "Makine ve Ekipmanlar",
+            "AR-GE",
+            "Sürekli / Tam zamanlı",
+            "Belirtilmemiştir",
+            "Kayseri(İncesu)"
+        ],
+        "sector": "Makine ve Ekipmanlar"
+    },
+    {
+        "title": "Yazılım Mühendisi",
+        "general-desc": [],
+        "candidate-criterias": [
+            "Tecrübeli ya da tecrübesiz adaylar",
+            "Yapıldı, Muaf",
+            "Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun)"
+        ],
+        "position-info": [
+            "Otomotiv",
+            "Bilgi Teknolojileri / IT",
+            "Sürekli / Tam zamanlı",
+            "Uzman",
+            "Belirtilmemiştir",
+            "Ankara"
+        ],
+        "sector": "Otomotiv"
+    }
+]
