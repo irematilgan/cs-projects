@@ -1,7 +1,7 @@
 # cs-projects
 These are the projects I've made during my computer engineering study. Some of the courses I've had:
 <ul>
-  <li>Data Structures and Algorithms</li>
+  <li><a href = 'https://github.com/irematilgan/cs-projects/tree/main/Algorithm%20Analysis'>Data Structures and Algorithms</a></li>
   <li>Algorithm Analysis</li>
   <li>Introduction to Computer Vision</li>
   <li>Introduction to Natural Language Processing</li>
